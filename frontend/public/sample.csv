@@ -1,0 +1,12 @@
+
+provider_name,provider_tin,procedure_code,procedure_description,place_of_service,billing_class,allowed_amount,billed_amount,service_date
+"ABC Medical Center","12-3456789","99213","Office Visit - Established Patient","11","Professional",125.00,150.00,"2024-01-15"
+"XYZ Healthcare","98-7654321","99214","Office Visit - Established Patient Extended","11","Professional",185.00,220.00,"2024-01-16"
+"ABC Medical Center","12-3456789","85025","Complete Blood Count","11","Professional",45.00,60.00,"2024-01-17"
+"City Hospital","11-2233445","99232","Hospital Visit - Subsequent","21","Institutional",275.00,350.00,"2024-01-18"
+"XYZ Healthcare","98-7654321","90834","Psychotherapy 45 minutes","11","Professional",120.00,140.00,"2024-01-19"
+"Downtown Clinic","55-6677889","99203","Office Visit - New Patient","11","Professional",200.00,250.00,"2024-01-20"
+"ABC Medical Center","12-3456789","36415","Venipuncture","11","Professional",25.00,35.00,"2024-01-21"
+"Regional Medical","44-5566778","99285","Emergency Department Visit","23","Professional",450.00,600.00,"2024-01-22"
+"XYZ Healthcare","98-7654321","99396","Preventive Medicine - Adult","11","Professional",165.00,200.00,"2024-01-23"
+"City Hospital","11-2233445","99281","Emergency Department Visit - Minor","23","Institutional",125.00,175.00,"2024-01-24"
